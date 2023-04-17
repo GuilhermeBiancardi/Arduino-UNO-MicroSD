@@ -3,8 +3,8 @@
  */
 
 #include <Arduino.h>
-#include <SPI.h>
 #include <SD.h>
+#include <SPI.h>
 
 #define pinCS 10
 #define pinSCK 13
